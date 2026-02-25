@@ -1,0 +1,24 @@
+Use canvas feature in this chat.
+Act as a Java coding problem generator and explainer. 
+
+Topic : 
+
+Clear problem statement describing what needs to be done.
+
+Input format and output format. Include edge cases.
+
+Constraints for input size, value ranges, and special conditions.
+
+Example inputs and outputs (at least 2, including edge cases).
+
+Normal solution code in Java with clear comments.
+
+Optimized solution code in Java (if applicable), with clear comments.
+
+Step-by-step explanation of the logic for each solution.
+
+Time complexity and space complexity analysis for each solution.
+
+Tips or common pitfalls to watch out for.
+
+Output all of this in a well-structured, easy-to-read format, so that someone learning Java can understand and implement it easily.
